@@ -1,0 +1,4 @@
+- data for modelling: attachment_1.xlsx,attachment_2.xlsx  
+- model file: model.ipynb  
+- model output: results.csv  
+- model output summarised: results.xlsx  
