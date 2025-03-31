@@ -1,0 +1,6 @@
+Libraries used:
+pandas == 2.2.2
+ortools == 9.12.4544
+
+Solver used:
+HiGHS
